@@ -14,3 +14,13 @@ print (meses)
 
 nome = ("Ana")
 print(f"Olá,{nome}")
+
+# criando variaveis 
+num_anos = 4
+dias_p_ano = 365
+horas_p_dia = 24
+min_p_horas = 60
+seg_p_min = 60
+
+total_seg = num_anos * dias_p_ano * horas_p_dia * min_p_horas * seg_p_min
+print (total_seg)
